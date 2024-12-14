@@ -1,0 +1,1269 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (FortniteExternalBase.vcxproj, fortnite_external_base.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  initalizer.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58912,9):
+      see previous definition of 'DXGI_STATUS_OCCLUDED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58921,9):
+      see previous definition of 'DXGI_STATUS_CLIPPED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58930,9):
+      see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58939,9):
+      see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58948,9):
+      see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58957,9):
+      see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58966,9):
+      see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58981,9):
+      see previous definition of 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58990,9):
+      see previous definition of 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(58999,9):
+      see previous definition of 'DXGI_ERROR_MORE_DATA'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59008,9):
+      see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59017,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59026,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59036,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59045,9):
+      see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59055,9):
+      see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59064,9):
+      see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59074,9):
+      see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59083,9):
+      see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59092,9):
+      see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59102,9):
+      see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59111,9):
+      see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59435,9):
+      see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59454,9):
+      see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59402,9):
+      see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59411,9):
+      see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\keybind.hpp(182,17): warning C4091: 'static ': ignored on left of 'CKeybind::c_keybind_type' when no variable is declared
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\settings.hpp(22,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\settings.hpp(23,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\ida.hpp(103,9): warning C4005: 'LOBYTE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(206,9):
+      see previous definition of 'LOBYTE'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\ida.hpp(104,9): warning C4005: 'LOWORD': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(204,9):
+      see previous definition of 'LOWORD'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\ida.hpp(106,9): warning C4005: 'HIBYTE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(207,9):
+      see previous definition of 'HIBYTE'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(58,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(58,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(58,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(100,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(101,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(102,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(104,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(105,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(106,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(107,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(108,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(109,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(111,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(112,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(113,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(115,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(116,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(117,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(118,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(120,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(121,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(122,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(123,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(125,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(127,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(128,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(188,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(189,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(190,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(210,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(211,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(212,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(317,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(317,30): warning C4244:         with
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(317,30): warning C4244:         [
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(317,30): warning C4244:             T=double
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(317,30): warning C4244:         ]
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(331,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(332,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(333,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(376,16): warning C4091: 'typedef ': ignored on left of 'visible_cached' when no variable is declared
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\spoof.h(402,29): warning C4305: 'initializing': truncation from '__int64' to 'BYTE'
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\spoof.h(402,29): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\aimbot.hpp(59,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\aimbot.hpp(59,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(16,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(16,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(16,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(16,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(17,105): warning C4244: 'argument': conversion from 'float' to 'ImDrawFlags', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(17,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(17,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(17,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(17,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(22,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(22,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(22,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(22,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(23,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(23,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(23,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(23,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(25,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(25,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(25,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(25,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(26,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(26,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(26,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(26,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(27,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(27,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(27,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(27,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(28,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(28,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(28,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(28,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(30,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(30,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(30,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(30,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(31,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(31,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(31,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(31,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(33,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(33,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(33,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(33,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(34,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(34,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(34,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(34,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(36,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(36,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(36,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(37,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(37,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(37,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(37,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(38,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(38,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(38,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(38,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(39,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(39,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(39,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(39,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(41,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(41,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(41,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(41,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(42,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(42,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(42,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(42,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(47,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(48,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(49,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(50,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(77,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(77,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(77,69): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(77,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(78,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(78,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(78,69): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(78,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(83,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(83,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(83,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(83,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(88,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(88,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(88,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(88,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(89,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(89,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(89,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(89,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(96,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(96,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(97,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(97,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(98,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(98,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(99,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(99,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(101,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(101,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(102,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(102,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(111,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(111,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(112,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(112,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(113,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(113,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(114,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(114,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(116,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(116,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(122,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(122,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(123,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(123,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(124,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(124,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(125,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(125,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(127,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(127,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(165,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(165,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(166,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(166,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(167,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(167,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(168,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(168,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(170,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(170,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(223,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(223,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(224,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(224,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(225,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(225,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(226,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(226,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(228,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(228,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(236,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(236,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(237,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(237,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(238,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(238,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(239,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(239,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(241,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(241,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(246,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(246,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(246,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(246,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(306,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'initalizer.cpp')
+      C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(26,7):
+      see declaration of 'Vector3'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(307,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'initalizer.cpp')
+      C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(26,7):
+      see declaration of 'Vector3'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(433,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(435,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(485,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(485,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(485,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(485,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(488,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(488,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(488,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(488,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(491,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(491,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(491,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(491,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\game.hpp(556,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(66,9): warning C4005: 'STATUS_WAIT_0': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2608,9):
+      see previous definition of 'STATUS_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(226,9): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2609,9):
+      see previous definition of 'STATUS_ABANDONED_WAIT_0'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(249,9): warning C4005: 'STATUS_USER_APC': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2610,9):
+      see previous definition of 'STATUS_USER_APC'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(285,9): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2611,9):
+      see previous definition of 'STATUS_TIMEOUT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(294,9): warning C4005: 'STATUS_PENDING': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2612,9):
+      see previous definition of 'STATUS_PENDING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(750,9): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2613,9):
+      see previous definition of 'DBG_EXCEPTION_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(759,9): warning C4005: 'DBG_CONTINUE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2614,9):
+      see previous definition of 'DBG_CONTINUE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(834,9): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2615,9):
+      see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(997,9): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2616,9):
+      see previous definition of 'STATUS_FATAL_APP_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1344,9): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2617,9):
+      see previous definition of 'DBG_REPLY_LATER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1362,9): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2618,9):
+      see previous definition of 'DBG_TERMINATE_THREAD'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1371,9): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2619,9):
+      see previous definition of 'DBG_TERMINATE_PROCESS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1380,9): warning C4005: 'DBG_CONTROL_C': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2620,9):
+      see previous definition of 'DBG_CONTROL_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1389,9): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2621,9):
+      see previous definition of 'DBG_PRINTEXCEPTION_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1398,9): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2622,9):
+      see previous definition of 'DBG_RIPEXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1407,9): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2623,9):
+      see previous definition of 'DBG_CONTROL_BREAK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1416,9): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2624,9):
+      see previous definition of 'DBG_COMMAND_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1425,9): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2625,9):
+      see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1457,9): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2626,9):
+      see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1468,9): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2627,9):
+      see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1479,9): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2628,9):
+      see previous definition of 'STATUS_BREAKPOINT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1490,9): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2629,9):
+      see previous definition of 'STATUS_SINGLE_STEP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1793,9): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2630,9):
+      see previous definition of 'STATUS_LONGJUMP'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1820,9): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2631,9):
+      see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1944,9): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2632,9):
+      see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2111,9): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2633,9):
+      see previous definition of 'STATUS_ACCESS_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2120,9): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2634,9):
+      see previous definition of 'STATUS_IN_PAGE_ERROR'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2138,9): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2635,9):
+      see previous definition of 'STATUS_INVALID_HANDLE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2183,9): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2636,9):
+      see previous definition of 'STATUS_INVALID_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2283,9): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2637,9):
+      see previous definition of 'STATUS_NO_MEMORY'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2340,9): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2638,9):
+      see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2421,9): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2639,9):
+      see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2430,9): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2640,9):
+      see previous definition of 'STATUS_INVALID_DISPOSITION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3363,9): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2641,9):
+      see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3373,9): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2642,9):
+      see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3383,9): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2643,9):
+      see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3393,9): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2644,9):
+      see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3403,9): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2645,9):
+      see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3413,9): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2646,9):
+      see previous definition of 'STATUS_FLOAT_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3423,9): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2647,9):
+      see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3433,9): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2648,9):
+      see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3443,9): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2649,9):
+      see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3453,9): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2650,9):
+      see previous definition of 'STATUS_INTEGER_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3463,9): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2651,9):
+      see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4409,9): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2652,9):
+      see previous definition of 'STATUS_STACK_OVERFLOW'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4926,9): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2653,9):
+      see previous definition of 'STATUS_DLL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4955,9): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2654,9):
+      see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4965,9): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2655,9):
+      see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4975,9): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2656,9):
+      see previous definition of 'STATUS_CONTROL_C_EXIT'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(5053,9): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2657,9):
+      see previous definition of 'STATUS_DLL_INIT_FAILED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(6050,9): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2658,9):
+      see previous definition of 'STATUS_CONTROL_STACK_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7644,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2659,9):
+      see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7654,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2660,9):
+      see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7786,9): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2661,9):
+      see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8769,9): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2662,9):
+      see previous definition of 'STATUS_HEAP_CORRUPTION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8997,9): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2663,9):
+      see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9124,9): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2664,9):
+      see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9187,9): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2665,9):
+      see previous definition of 'STATUS_ASSERTION_FAILURE'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10096,9): warning C4005: 'STATUS_ENCLAVE_VIOLATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2666,9):
+      see previous definition of 'STATUS_ENCLAVE_VIOLATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10883,9): warning C4005: 'STATUS_INTERRUPTED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2667,9):
+      see previous definition of 'STATUS_INTERRUPTED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10892,9): warning C4005: 'STATUS_THREAD_NOT_RUNNING': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2668,9):
+      see previous definition of 'STATUS_THREAD_NOT_RUNNING'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(11204,9): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2669,9):
+      see previous definition of 'STATUS_ALREADY_REGISTERED'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15299,9): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2671,9):
+      see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15308,9): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2672,9):
+      see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(46,58): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(60,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(148,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(159,22): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(214,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(253,34): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(446,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(458,22): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(497,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(716,37): warning C4244: '=': conversion from 'const unsigned __int64' to 'uint32_t', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(717,35): warning C4244: '=': conversion from 'const unsigned __int64' to 'uint32_t', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\loadup.hpp(116,18): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\loadup.hpp(260,46): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\vdm\vdm.hpp(67,20): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\vdm\vdm.hpp(111,20): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\vdm_ctx\vdm_ctx.hpp(89,5): warning C4312: 'type cast': conversion from 'uint32_t' to 'HANDLE' of greater size
+  (compiling source file 'initalizer.cpp')
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(641,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(647,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(658,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(667,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(683,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(689,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(742,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\initalizer.cpp(756,16): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244: 'initializing': conversion from 'const uintptr_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:             _Ty2=uint32_t
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54): warning C4244:         ]
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\utility(263,54):
+      the template instantiation context (the oldest one first) is
+          C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(563,19):
+          see reference to function template instantiation 'std::pair<uintptr_t,uint32_t> util::memory::sig_scan<17>(const char (&)[17],const char (&)[17])' being compiled
+          C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\util\util.hpp(554,4):
+          see reference to function template instantiation 'std::pair<uintptr_t,uint32_t>::pair<const uintptr_t&,const uintptr_t&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=const uintptr_t &,
+              _Other2=const uintptr_t &
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(4709,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'initalizer.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(4709,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(414,26):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(414,26):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'get_player_platform'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+C:\Users\zecoil\Desktop\FortniteExternalBase\FortniteExternalBase\sdk.hpp(403,1): warning C4715: 'is_entity_visible': not all control paths return a value
+  FortniteExternalBase.vcxproj -> C:\Users\zecoil\Desktop\FortniteExternalBase\x64\Release\quantum.dev.exe
